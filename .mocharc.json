@@ -1,0 +1,13 @@
+{
+  "watch": true,
+  "recursive": true,
+  "timeout": 5000,
+  "ui": "bdd",
+  "opts": "./mocharc.json",
+  "package": "./package.json",
+  "diff": true,
+  "spec": "./build/tests/*.js",
+  "extension": [
+    "js"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/package-lock.json": true,
+    "**/.vscode": true,
+    "**/build": false,
+    "**/node_modules": true,
+    "**/imagesPermit": true,
+    "**/.git**": true,
+  },
+}
